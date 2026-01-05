@@ -22,10 +22,6 @@ A mobile UI/UX prototype designed in Figma to help solo travelers plan and visua
 (If added)
 👉 Watch the demo video in this repository
 
-## 📸 Screenshots
-![Welcome Screen](screenshots/welcome.png)
-![Home Screen](screenshots/home.png)
-![Map Screen](screenshots/map.png)
 
 ## 🙌 Designed By
 **Jisha C**
