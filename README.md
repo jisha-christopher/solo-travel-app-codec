@@ -1,6 +1,7 @@
 # Solo Travel Itinerary Planner – UI/UX Prototype
 
 A mobile app UI/UX prototype designed in Figma for solo travelers to plan trips easily.
+<!-- Failed to upload "Solo Travel Itinerary Planner - Page 1 - Google Chrome 2026-01-05 20-55-41.mp4" -->
 
 ---
 
