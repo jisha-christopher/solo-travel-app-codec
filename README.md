@@ -1,42 +1,15 @@
 # Solo Travel Itinerary Planner – UI/UX Prototype
 
 A mobile app UI/UX prototype designed in Figma for solo travelers to plan trips easily.
-<!-- Failed to upload "Solo Travel Itinerary Planner - Page 1 - Google Chrome 2026-01-05 20-55-41.mp4" -->
+
 
 ---
 
 ## 🔗 Figma Prototype
-👉 https://www.figma.com/PASTE-YOUR-LINK-HERE
+👉 <!-- Failed to upload "Solo Travel Itinerary Planner - Page 1 - Google Chrome 2026-01-05 20-55-41.mp4" -->
+## Screenshots
 
----
-
-## 📸 Screenshots
-
-### New Trip Screen
-![New Trip](screenshots/new-trip.png)
-
-### Home Screen
-![Home](screenshots/home.png)
-
-### Welcome Screen
-![Welcome](screenshots/welcome.png)
-
-### Map Screen
-![Map](screenshots/map.png)
-
-### Emergency Screen
-![Emergency](screenshots/emergency.png)
-
----
-
-## 🎥 Prototype Demo Video
-👉 [Click here to watch the demo video](demo/prototype-demo.mp4)
-
----
-
-## 🛠 Tools Used
-- Figma (UI/UX Design & Prototyping)
-- <img width="390" height="634" alt="Image" src="https://github.com/user-attachments/assets/560ac018-fbce-4768-b169-db25bc41510f" />
+--- <img width="390" height="634" alt="Image" src="https://github.com/user-attachments/assets/560ac018-fbce-4768-b169-db25bc41510f" />
 
 <img width="390" height="844" alt="Image" src="https://github.com/user-attachments/assets/55af6197-e8c1-4393-9dd2-7b67f95e2322" />
 
@@ -45,6 +18,18 @@ A mobile app UI/UX prototype designed in Figma for solo travelers to plan trips 
 <img width="390" height="844" alt="Image" src="https://github.com/user-attachments/assets/0adf9cb4-b51d-4f36-bc73-70da3a31e4d0" />
 
 <img width="390" height="844" alt="Image" src="https://github.com/user-attachments/assets/871d5ee6-dc01-4216-94e0-bf79f8aff381" />
+
+
+---
+
+## 🎥 Prototype Demo Video
+👉 <!-- Failed to upload "Solo Travel Itinerary Planner - Page 1 - Google Chrome 2026-01-05 20-55-41.mp4" -->
+
+---
+
+## 🛠 Tools Used
+- Figma (UI/UX Design & Prototyping)
+
 
 
 
